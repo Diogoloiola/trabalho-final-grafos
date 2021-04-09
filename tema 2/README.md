@@ -1,6 +1,6 @@
 ## Tema 2
 
-Nessa pasta está contido o algoritmo que resolve o problema de verficar se os ciclos do grafo são pares.
+Nessa pasta está contido o algoritmo que resolve o problema de verificar se existe uma soma do ciclo, de um grafo valorado e não direcionado, par
 
 Dentro da pasta test contém 3, arquivos sendo eles.
 
